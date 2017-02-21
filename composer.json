@@ -18,7 +18,7 @@
             "type": "package",
             "package": {
               "name": "misfist/littlesis",
-                "version": "WIPCategoryFilters",
+                "version": "master",
                 "type": "wordpress-theme",
                 "dist": {
                     "type": "zip",
@@ -59,7 +59,7 @@
       "wpackagist-plugin/series": "^1.0.0",
       "wpackagist-plugin/so-widgets-bundle": "^1.8.1",
       "wpackagist-theme/understrap": "^0.5.6",
-      "misfist/littlesis": "WIPCategoryFilters"
+      "misfist/littlesis": "dev-master"
     },
     "require-dev": {
       "wpackagist-plugin/developer": "^1.2.5",
