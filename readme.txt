@@ -21,11 +21,12 @@ Project structure
 
 ```
 webroot
- \\_ core-packages <-- contains composer.json - installs packages into wordpress directory
+ \\_ core-packages <-- contains composer.json - installs packages into `wordpress` directory
  \\_ wordpress <-- contains wordpress core and packages
 ```
 
 == Changelog ==
+0.0.6 - Updated theme to v0.0.5
 
 0.0.5 - Updated theme to v0.0.5
 
