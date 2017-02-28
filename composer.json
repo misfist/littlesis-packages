@@ -18,7 +18,7 @@
             "type": "package",
             "package": {
               "name": "misfist/littlesis",
-                "version": "v0.0.7",
+                "version": "v0.0.8",
                 "type": "wordpress-theme",
                 "dist": {
                     "type": "zip",
@@ -27,6 +27,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:misfist/littlesis.git",
+                    "reference": "master"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+              "name": "littlesis-core-functionality",
+                "version": "v0.1.0",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/misfist/littlesis-core-functionality/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/misfist/littlesis-core-functionality.git",
                     "reference": "master"
                 }
             }
@@ -58,8 +75,9 @@
       "wpackagist-plugin/jetpack": "^4.3.2",
       "wpackagist-plugin/series": "^1.0.0",
       "wpackagist-plugin/so-widgets-bundle": "^1.8.1",
+      "littlesis-core-functionality": "^0.1.0",
       "wpackagist-theme/understrap": "^0.5.6",
-      "misfist/littlesis": "v0.0.7"
+      "misfist/littlesis": "v0.0.8"
     },
     "require-dev": {
       "wpackagist-plugin/developer": "^1.2.5",
