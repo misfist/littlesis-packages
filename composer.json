@@ -18,7 +18,7 @@
             "type": "package",
             "package": {
               "name": "misfist/littlesis",
-                "version": "v0.0.8",
+                "version": "v0.0.9",
                 "type": "wordpress-theme",
                 "dist": {
                     "type": "zip",
@@ -34,7 +34,7 @@
         {
             "type": "package",
             "package": {
-              "name": "littlesis-core-functionality",
+              "name": "misfist/littlesis-core-functionality",
                 "version": "v0.1.0",
                 "type": "wordpress-plugin",
                 "dist": {
@@ -72,12 +72,14 @@
       "misfist/advanced-custom-fields-pro": "v5.5.7",
       "wpackagist-plugin/caldera-forms": "1.5.0",
       "wpackagist-plugin/co-authors-plus": "^3.2.1",
+      "wpackagist-plugin/codepress-admin-columns": "^2.5.6.4",
       "wpackagist-plugin/jetpack": "^4.3.2",
       "wpackagist-plugin/series": "^1.0.0",
       "wpackagist-plugin/so-widgets-bundle": "^1.8.1",
-      "littlesis-core-functionality": "^0.1.0",
+      "wpackagist-plugin/widget-css-classes": "^1.4.0",
+      "misfist/littlesis-core-functionality": "^0.1.0",
       "wpackagist-theme/understrap": "^0.5.6",
-      "misfist/littlesis": "v0.0.8"
+      "misfist/littlesis": "v0.0.9"
     },
     "require-dev": {
       "wpackagist-plugin/developer": "^1.2.5",
