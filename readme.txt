@@ -27,6 +27,9 @@ webroot
 
 == Changelog ==
 
+0.1.0
+* Updated theme to v0.1.0
+
 0.0.10
 * Updated theme to v0.0.10
 * Updated core plugin to v0.1.2
