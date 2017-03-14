@@ -27,6 +27,9 @@ webroot
 
 == Changelog ==
 
+0.1.2
+* Updated theme to v0.1.2
+
 0.1.1
 * Updated theme to v0.1.1
 
