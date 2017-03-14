@@ -1,7 +1,7 @@
 === LittleSis Blog Project ===
 Contributors: misfist
 Requires at least: 4.7
-Tested up to: 4.7.2
+Tested up to: 4.7.3
 License: GPLv3
 
 WordPress packages for blog.littlesis.org
@@ -26,6 +26,9 @@ webroot
 ```
 
 == Changelog ==
+
+0.1.1
+* Updated theme to v0.1.1
 
 0.1.0
 * Updated theme to v0.1.0
