@@ -27,6 +27,9 @@ webroot
 
 == Changelog ==
 
+0.1.7 - March 31, 2017
+* Updated theme to v0.1.7
+
 0.1.6
 * Updated theme to v0.1.6
 
