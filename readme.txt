@@ -27,6 +27,9 @@ webroot
 
 == Changelog ==
 
+0.1.9.1 - April 10, 2017
+* Updated theme to 0.1.9
+
 0.1.9 - April 7, 2017
 * Added Google Analytics Dashboard for WP
 * Added MailChimp for WordPress
