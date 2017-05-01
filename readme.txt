@@ -27,6 +27,9 @@ webroot
 
 == Changelog ==
 
+0.1.10 - May 1, 2017
+* Updated core plugin to 0.1.4
+
 0.1.9.1 - April 10, 2017
 * Updated theme to 0.1.9
 
