@@ -18,7 +18,7 @@
             "type": "package",
             "package": {
               "name": "public-accountability/littlesis",
-                "version": "0.1.14",
+                "version": "0.1.15",
                 "type": "wordpress-theme",
                 "dist": {
                     "type": "zip",
@@ -82,7 +82,7 @@
       "wpackagist-plugin/wp-user-avatars": "^1.0.2",
       "public-accountability/littlesis-core-functionality": "0.1.4",
       "wpackagist-theme/understrap": "^0.5.6",
-      "public-accountability/littlesis": "0.1.14"
+      "public-accountability/littlesis": "0.1.15"
     },
     "require-dev": {
       "wpackagist-plugin/developer": "^1.2.5",
